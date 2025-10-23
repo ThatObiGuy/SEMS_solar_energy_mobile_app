@@ -4,6 +4,10 @@
 This is a smart energy management system for residential solar-plus-battery setups using real-world data.
 The project consists of a React Native mobile frontend and a Node.js Express backend.
 
+The project was developed as part a Maynooth University undergraduate porgramme.
+The app featured the research findings along with a number of other valuable features.
+The programme ended in October of 2025 and since the API used to collect the data has stopped working as intended.
+
 ## Development Information
 
 ### Project Structure
